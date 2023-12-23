@@ -1,0 +1,14 @@
+version=1
+id=3120754047
+title=Rename all Items
+description=This mod simply allows all players to rename all items.
+description=
+description=It adds a "Rename Item" menu option to all items that don't already have one.
+description=
+description=[h1]Contact[/h1]
+description=
+description=[b]Website[/b]: https://mods.twelveiterations.com/
+description=[b]Discord[/b]: https://discord.gg/VAfZ2Nau6j
+description=[b]Patreon[/b]: https://www.patreon.com/BlayTheNinth
+tags=Misc;Multiplayer
+visibility=public
